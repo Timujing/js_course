@@ -1,3 +1,7 @@
+'use sctrict'
+
+// Add modification
+
 let numberOfFilms = prompt('Сколько фильмов вы уже посмотрели?', '');
 
 const personalMovieDB = {
